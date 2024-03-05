@@ -91,7 +91,7 @@ define(['./workbox-cea655ed'], (function (workbox) { 'use strict';
     "revision": "dbd77fde4677c12774b6b1c81e785a06"
   }, {
     "url": "index.html",
-    "revision": "807afcea80aad8ee2d3f0f36a1b94f39"
+    "revision": "74d3a1289da80d399025cc17e91baafe"
   }, {
     "url": "registerSW.js",
     "revision": "1872c500de691dce40960bb85481de07"
